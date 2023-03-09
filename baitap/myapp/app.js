@@ -1,4 +1,4 @@
-var createError = require('http-errors');
+var createError = require('http-errors1');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
@@ -10,7 +10,7 @@ var usersRouter = require('./routes/users');
 var app = express1();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, 'views1'));
 app.set('view engine', 'ejs');
 
 app.use(logger('dev'));
