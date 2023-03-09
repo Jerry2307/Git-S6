@@ -15,6 +15,8 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 var app = express1();
+dsađâsđá
+<<<<<<< HEAD
 42141414141
 312312312312
 hehehehedsađâsdsa132123123123
@@ -26,6 +28,9 @@ dsađâsđâsdsadsadá
 12313213
 dsađâsđâsdsađâsdá
 dsađá
+>>>>>>> dinhngocdo
+=======
+
 >>>>>>> dinhngocdo
 // view engine setup
 app.set('views', path.join(__dirname, 'views1'));
